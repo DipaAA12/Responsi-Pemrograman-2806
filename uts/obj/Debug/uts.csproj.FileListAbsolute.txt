@@ -1,0 +1,2 @@
+D:\uts\uts\bin\Debug\uts.exe.config
+D:\uts\uts\obj\Debug\uts.csprojResolveAssemblyReference.cache
